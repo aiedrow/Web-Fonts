@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Hobo Std';
+    src: url('HoboStd.woff2') format('woff2'),
+        url('HoboStd.woff') format('woff'),
+        url('HoboStd.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hobo Std';
+    src: url('HoboStd_1.woff2') format('woff2'),
+        url('HoboStd_1.woff') format('woff'),
+        url('HoboStd_1.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hobo Std';
+    src: url('HoboStd_2.woff2') format('woff2'),
+        url('HoboStd_2.woff') format('woff'),
+        url('HoboStd_2.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hobo Std';
+    src: url('HoboStd_3.woff2') format('woff2'),
+        url('HoboStd_3.woff') format('woff'),
+        url('HoboStd_3.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
