@@ -1,1 +1,27 @@
-a{}
+ @font-face {
+    font-family: 'Mazzard H';
+    font-style: normal;
+    font-weight: bold;
+    src: local('Mazzard H'), url('MazzardH-Bold.woff') format('woff');
+    }
+
+@font-face {
+    font-family: 'Mazzard H';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Mazzard H'), url('MazzardH-ExtraLight.woff') format('woff');
+    }
+    
+ @font-face {
+    font-family: 'Mazzard H';
+    font-style: normal;
+    font-weight: bolder;
+    src: local('Mazzard H'), url('MazzardH-ExtraBold.woff') format('woff');
+    }
+    
+ @font-face {
+    font-family: 'Mazzard H';
+    font-style: normal;
+    font-weight: black;
+    src: local('Mazzard H'), url('MazzardH-Black.woff') format('woff');
+    }
